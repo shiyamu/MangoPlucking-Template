@@ -7,4 +7,5 @@ class Sling{
     }
     display(){
        //display using line method
+    }
 }
